@@ -7,7 +7,7 @@ const Container = (props) => (
       <title>Next.js Project</title>
       <link
         rel="stylesheet"
-        href="https://stackpath.bootstrapcdn.com/bootswatch/4.4.1/yeti/bootstrap.min.css"
+        href="https://stackpath.bootstrapcdn.com/bootswatch/4.4.1/flatly/bootstrap.min.css"
       />
     </Head>
     <Navigation />
